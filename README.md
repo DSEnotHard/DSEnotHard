@@ -1,6 +1,6 @@
 # DSEnotHard | DSE唔難
 
-DSE 開源教科書及筆記計劃：  [DSEnotHard.github.io](DSEnotHard.github.io)
+DSE 開源教科書及筆記計劃：  [DSEnotHard.github.io](https://DSEnotHard.github.io/)
 
 ## 咩嚟㗎？
 
